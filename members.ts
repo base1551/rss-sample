@@ -57,7 +57,8 @@ export const members: Member[] = [
     name: "base1551",
     role: "admin",
     bio: "IT professional with 3 years of experience",
-    avatarSrc: "/avatars/alexandria.jpg",
+    avatarSrc: "/avatars/prof.jpg",
     sources: ["https://qiita.com/Oka1551/feed.atom"],
+    // twitterUsername: "JockRock95",
   },
 ];

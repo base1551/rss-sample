@@ -1,8 +1,8 @@
 export const config = {
   siteMeta: {
-    title: "Team Blog Hub",
-    teamName: "catnose Inc.",
-    description: "RSS based blog starter kit for teams.",
+    title: "OkaDev",
+    teamName: "Copyright © 2022 OkaBlog.",
+    description: "web開発者のブログ",
   },
   siteRoot:
     process.env.NODE_ENV === "production"
