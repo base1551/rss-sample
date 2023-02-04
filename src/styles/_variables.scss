@@ -1,9 +1,9 @@
 :root {
-  --color-base-background: #111;
-  --color-base-background-lighter: #24242d;
-  --color-base-text: #fff;
-  --color-base-text-lighter: rgba(212, 231, 241, 0.6);
+  --color-base-background: rgb(250, 255, 255);
+  --color-base-background-lighter: rgb(250, 255, 255);
+  --color-base-text: #000000;
+  --color-base-text-lighter: #000000(212, 231, 241, 0.6);
   --color-border: rgba(115, 125, 130, 0.4);
-  --color-primary-background: #9060ff;
-  --color-primary-text: #b494ff;
+  --color-primary-background: #62f2ff; 
+  --color-primary-text: #747474; //リンク
 }
